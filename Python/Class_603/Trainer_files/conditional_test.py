@@ -1,4 +1,4 @@
-inisPizzaAvailable=False
+isPizzaAvailable=False
 isPastaAvailable=False
 isTeaAvailable=False
 isBurgerAvailable=True
